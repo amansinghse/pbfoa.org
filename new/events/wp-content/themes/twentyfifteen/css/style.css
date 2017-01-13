@@ -1,0 +1,593 @@
+/*
+Theme Name: Twenty Fifteen
+Theme URI: https://wordpress.org/themes/twentyfifteen/
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Version: 1.5
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: twentyfifteen
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+/**
+ * Table of Contents
+ *
+ * 1.0 - Reset
+ * 2.0 - Genericons
+ * 3.0 - Typography
+ * 4.0 - Elements
+ * 5.0 - Forms
+ * 6.0 - Navigations
+ *   6.1 - Links
+ *   6.2 - Menus
+ * 7.0 - Accessibility
+ * 8.0 - Alignments
+ * 9.0 - Clearings
+ * 10.0 - Header
+ * 11.0 - Widgets
+ * 12.0 - Content
+ *    12.1 - Posts and pages
+ *    12.2 - Post Formats
+ *    12.3 - Comments
+ * 13.0 - Footer
+ * 14.0 - Media
+ *    14.1 - Captions
+ *    14.2 - Galleries
+ * 15.0 - Multisite
+ * 16.0 - Media Queries
+ *    16.1 - Mobile Large
+ *    16.2 - Tablet Small
+ *    16.3 - Tablet Large
+ *    16.4 - Desktop Small
+ *    16.5 - Desktop Medium
+ *    16.6 - Desktop Large
+ *    16.7 - Desktop X-Large
+ * 17.0 - Print
+ */
+
+
+/**
+ * 1.0 - Reset
+ *
+ * Resetting and rebuilding styles have been helped along thanks to the fine
+ * work of Eric Meyer, Nicolas Gallagher, Jonathan Neal, and Blueprint.
+ */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+
+
+
+@charset "utf-8";
+/* CSS Document */
+
+/* Getting the new tags to behave */
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {
+	display:block
+}
+
+html:after,
+body:after{clear:both; display:table; content:""; }
+#tribe-events-pg-template{max-width:100%!important;}
+.inner_banner,
+#inner-page-wrapper,
+#main_header,
+#main_banner,
+#member_wrapper,
+#events_wrapper,
+#services_wrapper,
+#team_wrapper,
+#main_data_div,
+#footer-wrapper{min-width:1150px; width:100%!important; margin:0px!important; padding-left:0px!important; padding-right:0px!important; }
+.inner_banner:after,
+#inner-page-wrapper:after,
+#main_header:after,
+#main_banner:after,
+#member_wrapper:after,
+#events_wrapper:after,
+#services_wrapper:after,
+#team_wrapper:after,
+#main_data_div:after,
+#footer-wrapper:after{clear:both; display:table; content:""; }
+
+mark, rp, rt, ruby, summary, time {
+	display:inline
+}
+
+@font-face {
+  font-family: 'RobotoSlabLight';
+  src: url('ROBOTOSLAB-LIGHT.TTF');
+}
+
+@font-face {
+  font-family: 'RobotoSlabRegular';
+  src: url('ROBOTOSLAB-REGULAR.TTF');
+}
+
+/* =================================================================== */
+/* ========== Default ========== */
+/* =================================================================== */
+
+body{font-family: 'Open Sans', sans-serif; font-size:16px; background:#dddddd; color:#343434;}
+html, body {
+	height:100%;
+	margin:0px!important;
+	padding:0;
+	
+}
+html, body, div, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, fieldset, input, hr ,figure { margin:0; padding:0;  }
+fieldset {border:0}
+a {text-decoration:none;}
+h1,h2,h3,h4,h5,h6{ font-family:'Roboto Slab', serif;}
+
+
+a:hover {text-decoration:none;}
+
+hr{}
+p{ font-weight:300;}
+p span{}
+h1{font-size:44px; color:#d62540; font-weight: 300;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    width: 98%;
+}
+h1 span{} 
+h2{font-size:35px; color:#d62540; font-weight:400;}
+h2 span{font-size:28px; color:#2e4e70;}
+h3{font-size:25px; font-weight:300; color:#394857;}
+h3 span{}
+h4{font-size:28px; color:#2e4e70; font-weight:400;}
+h4 span{}
+h5{font-size:18px; font-weight:400;}
+h6{color:#435463; font-size:16px; font-weight:400;}
+li{ list-style:none;}
+ul {margin-top:0px; margin-bottom:0px;}
+
+.clearfix:after {content: ".";display: block;clear: both;visibility: hidden;line-height: 0;height: 0;}
+.clearfix {display: inline-block;}
+html[xmlns] .clearfix {display: block;}
+* html .clearfix {height: 1%;}
+
+.alignleft{float:left;}
+
+.alignright{float:right; }
+
+a.red-btn{background-color: #d62540;  font-size:14px!IMPORTANT; font-weight:300px; color:#fff!important;font-family: 'Open Sans', sans-serif!important; text-transform:uppercase; padding:10px; margin-top:8px; float:left; width:100%; box-sizing:border-box; text-align:center;}
+
+.signup-btn{ box-shadow: 4px 4px 0px #ccd2d9; font-size:14px; font-weight:400px;color:#fff; font-family: 'Open Sans', sans-serif; padding:10px 35px; text-transform:uppercase; margin-top:15px; float:left; margin-left:66px;}
+	
+#main_header_wrapper{width:auto; margin:0px auto; position:absolute; top:0px; right:0px; left:0px; z-index:10000; }
+
+#inner-page-wrapper{background:#fff; width:auto; padding:50px 0px; border-bottom:1px solid #eceff2;}
+
+.container {margin:0px auto; width:1150px;}
+.container:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+/* =================================================================== */
+/* ========== Home ========== */
+/* =================================================================== */
+#main_header{background:url(http://haroon.biz/dev/josh/images/header_bg.png) repeat;}
+.logo{width:336px; float:left;}
+#main_header nav{float:right; width:764px; margin-top:80px;}
+#main_header nav li{ float:left;  margin:0px 10px; line-height:50px; }
+#main_header nav li a{color:#fff; font-size:15px; font-family:'Roboto Slab', serif; font-weight:400;}
+#main_header nav li a:hover{border-bottom:3px solid #d62540;}
+
+
+
+/* =================================================================== */
+/* ========== Footer Css ========== */
+/* =================================================================== */
+
+#footer-wrapper{width:auto; margin:0px auto; background:url(http://haroon.biz/dev/josh/images/footer-bg.jpg) repeat-x bottom #fff; padding-top:45px;}
+#footer-wrapper h6{margin-bottom:22px;}
+#footer-wrapper nav{float:left; margin-right:35px; padding-bottom:80px;}
+#footer-wrapper nav li{border-top:1px solid #fff; line-height:32px;}
+#footer-wrapper nav li a{ color:#3e3e3e; font-size:14px; font-family:'Roboto Slab', serif; font-weight:300;}
+nav.contact{margin-right:0px!important;}
+
+.footer-bottom{float:left; padding-bottom:10px; margin-left:75px; width:1000px;}
+.footer-logo{float:left; width:470px;}
+.footer-logo img{float:left; margin-right:20px;}
+
+.copyright{float:left;}
+.copyright img{margin-right:10px; margin-top:10px;}
+.copyright p{font-size:14px; font-weight:400; color:#616f7b; font-family:'Roboto Slab', serif; margin-top:5px;}
+
+
+.inner_banner{
+    background: url(http://haroon.biz/dev/josh/images/registration-wrapper-bg.jpg) no-repeat center top;
+    background-size: cover;
+    width:100%;
+    height: 408px;
+	display:block; margin:0px auto; clear:both;
+}
+
+.main_nav li{list-style-image:url(http://haroon.biz/dev/josh/images/menu_sep.png); }
+.main_nav li:first-child{list-style:none; }
+.main_nav{}
+.main_nav li{position:relative;}
+.main_nav li ul{position:absolute; background: url(http://haroon.biz/dev/josh/images/dropdown_bg.png) repeat; min-width:242px; transition:opacity 0.5s linear; opacity:0; width:100%; visibility:hidden; }
+.main_nav li ul li{line-height:40px!important; border-bottom:1px solid #67717a; display: block !important;     margin: 0px!important;
+    padding: 0px 20px; float:none!important; list-style:none;
+}
+.main_nav .location_menu ul{min-width:300px; }
+.main_nav li:hover ul{ opacity:1 !important; display:block !important; visibility:visible; }
+.main_nav li ul li:last-child{border-bottom:0px; }
+.main_nav li ul li a,
+.main_nav li ul li{ font-family: 'RobotoSlabLight'!important; font-weight:100!important; color:#fff; font-size:14px !important; }
+.main_nav .services_provider_menu{ position:static!important; }
+.main_nav .serv_prov_drosown{  left:0px; right:0px; max-width:100%; padding:20px 20px; }
+.main_nav .serv_prov_drosown:after{ content:""; clear:both; display:table;  }
+.main_nav .serv_prov_drosown ul{ background:none!important; position:relative !important; float:left; width:380px;  }
+.main_nav .serv_prov_drosown ul li{border-bottom:0px; padding:0px!important; line-height:30px!important; 
+border-bottom: 1px solid #67717a;
+max-width: 94%;
+}
+.main_nav .serv_prov_drosown h3{ font-size:22px; color:#ffffff; line-height:30px; font-family: 'RobotoSlabRegular'; margin-bottom:25px; }
+.partner_li{float:left!important; clear:inherit; width:50%; }
+#main_header .container{position:relative; }
+
+.list_company_btn a{display:block; background:#d62540; color:#ffffff; font-size:18px; font-family: 'Open Sans', sans-serif!important; width:275px; height:39px; text-align:center; margin-top:15px;  }
+
+/* =================================================================== */
+/* ========== Events Css ========== */
+/* =================================================================== */
+
+h3.tribe-events-month-event-title a{font-family:'Roboto Slab', serif; font-weight:700; font-size:16px; color:#2c353f;}
+.tribe-events-list-separator-month{display:none!important;}
+.list-date{background:#d5dbe1; float:left; width:25%; min-height:350px;}
+.date-head{background:#677c92; padding:13px; color:#fff;}
+
+.list-event{background:#e7e9eb; float:left; width:40%; min-height:350px; }
+.event-head{background:#495867; padding:13px; color:#fff;}
+
+.list-location{background:#d1d3d5; float:left; width:35%; min-height:350px;}
+.location-head{background:#2d363f; padding:13px; color:#fff;}
+
+.sign-content{padding:20px;}
+
+.label-tribe-bar-date, .label-tribe-bar-search{display:none!important;}
+input#tribe-bar-search, input#tribe-bar-date{width:300px!important; height:58px!important; background:#fff!important; border:1px solid #e7e9eb!important; font-family: 'Open Sans', sans-serif!important; font-weight:300!important; font-size:18px!important; text-transform:uppercase;}
+#tribe-bar-form .tribe-bar-submit input[type="submit"]{background:#0085cc!important; height:60px!important; font-family: 'Open Sans', sans-serif!important; font-weight:300!important; font-size:18px!important;}
+#list-event-design{float:left; width:100%;}
+.tribe-bar-submit{margin-left:0px!important;}
+.tribe-bar-date-filter{width:40%!important;}
+
+#tribe-bar-form{background:none!important; border-bottom:0px solid #e7e9eb!important; margin-top:0px!important;  margin-bottom:30px!important; }
+.tribe-theme-twentyfifteen.events-single.tribe-events-page-template #tribe-events-pg-template{padding:0px!important; }
+
+#tribe-events-content-wrapper #tribe-bar-form .tribe-bar-date-filter{display:block!important; padding-left:0px!important;  }
+.tribe-bar-date-filter #tribe-bar-date{width:209px!important; }
+.tribe-bar-search-filter,
+.tribe-bar-submit{display:none!important; }
+.tribe-bar-filters{display:none; }
+
+
+
+.tribe-bar-views-inner{padding:20px 0 55px!important;}
+
+.event_gallery{width:620px; margin-top:50px; }
+.event_gallery .wonderplugin-gridgallery-item{display:none!important; }
+.event_gallery .wonderplugin-gridgallery-item:nth-child(1),
+.event_gallery .wonderplugin-gridgallery-item:nth-child(2),
+.event_gallery .wonderplugin-gridgallery-item:nth-child(3),
+.event_gallery .wonderplugin-gridgallery-item:nth-child(4)
+{display:inline-block!important; }
+.postid-44 .entry-title{display:none!important; }
+.postid-44 body{overflow:hidden; }
+
+#wpadminbar{display:none!important;}
+
+
+.html5gallery-title-2,
+.html5gallery-title-3,
+.html5gallery-title-4,
+.html5gallery-title-5
+{background:url(images/video_bg.png) repeat!important; display: block !important;  padding:10px 0px;}
+.html5gallery-title-2 div,
+.html5gallery-title-3 div,
+.html5gallery-title-4 div,
+.html5gallery-title-5 div
+{ font-family: 'Roboto Slab', serif; font-size:20px;  padding:0px 15px; text-transform:capitalize; background:none!important;  }
+
+
+
+
+.html5gallery-box-3{max-width:49%!important; float:left!important;  }
+
+
+.html5gallery-elem-img-3,
+.html5gallery-elem-3,
+.html5gallery-elem-img-3,
+.html5gallery-elem-img-3 img{max-width:100%!important; }
+
+.html5gallery-elem-img-3 img{max-width:100%!important;  height:auto!important; top:0px!important;  }
+
+.html5gallery-car-3{max-width:49%!important; float:right!important; position:relative!important; top:0px!important;   }
+
+.html5gallery-car-list-3,
+.html5gallery-car-mask-3,
+.html5gallery-thumbs-3{max-width:100%!important; left:0px!important; margin-left:0px!important;  }
+
+.html5gallery-title-3{max-width:100%; top:auto!important; bottom:0px!important; }
+
+/******** 2*******************/
+
+.html5gallery-box-2{float:left!important; width:49%!important; }
+.html5gallery-car-2{float:right!important; position:relative!important; top:0px!important; width:49%!important;  }
+.html5gallery-box-2 .html5gallery-elem-2,
+.html5gallery-box-2 .html5gallery-elem-img-2
+{max-width:100%;}
+.html5gallery-title-2{max-width:100%; top:auto!important; bottom:0px; }
+.html5gallery-box-2 img{max-width:100%!important; height:auto!important; }
+.html5gallery-car-2 div{max-width:100%; left:0px!important; margin-left:0px!important; }
+.html5gallery-elem-img-2 img{top:0px!important; }
+.html5gallery-tn-img-2{opacity:1!important; }
+
+.html5gallery-container-2,
+#wonderplugingallery-2,
+.html5gallery-container-3,
+#wonderplugingallery-3{
+	height:auto!important; min-height:400px;
+}
+
+.html5gallery-description-text-3,
+.html5gallery-description-text-4,
+.html5gallery-description-text-2,
+.html5gallery-description-text-5{font-size:15px; }
+.html5gallery-description-text-3 span,
+.html5gallery-description-text-4 span,
+.html5gallery-description-text-2 span,
+.html5gallery-description-text-5 span{font-size:15px; font-family: 'Open Sans', sans-serif; color: #d62540; padding-top:0px!important; padding-bottom:0px!important; background:none!important; }
+
+
+.html5gallery-right-3,
+.html5gallery-right-4,
+.html5gallery-right-5,
+.html5gallery-right-2{left:516px!important;}
+
+.html5gallery-lightbox-2,
+.html5gallery-lightbox-3,
+.html5gallery-lightbox-4,
+.html5gallery-lightbox-2{left:510px!important;} 
+
+.html5gallery-thumbs-2 .html5gallery-tn-2,
+.html5gallery-thumbs-3 .html5gallery-tn-3,
+.html5gallery-thumbs-4 .html5gallery-tn-4,
+.html5gallery-thumbs-5 .html5gallery-tn-5{
+	display:none!important; 
+}
+
+.html5gallery-thumbs-2 .html5gallery-tn-2:nth-child(1),
+.html5gallery-thumbs-2 .html5gallery-tn-2:nth-child(2),
+.html5gallery-thumbs-2 .html5gallery-tn-2:nth-child(3),
+.html5gallery-thumbs-2 .html5gallery-tn-2:nth-child(4),
+.html5gallery-thumbs-3 .html5gallery-tn-3:nth-child(1),
+.html5gallery-thumbs-3 .html5gallery-tn-3:nth-child(2),
+.html5gallery-thumbs-3 .html5gallery-tn-3:nth-child(3),
+.html5gallery-thumbs-3 .html5gallery-tn-3:nth-child(4),
+.html5gallery-thumbs-4 .html5gallery-tn-4:nth-child(1),
+.html5gallery-thumbs-4 .html5gallery-tn-4:nth-child(2),
+.html5gallery-thumbs-4 .html5gallery-tn-4:nth-child(3),
+.html5gallery-thumbs-4 .html5gallery-tn-4:nth-child(4){
+	display:block!important; 
+}
+
+
+.evets-lists{float:left; width:530px; margin-right:25px; margin-bottom:100px;}
+.evets-lists:first-child{margin-top:100px;}
+.evets-lists:nth-child(even){float:right;  }
+.evets-lists .date{float:left; background:#768ca3; width:73px; padding:20px 5px; text-align:center; font-family: 'Open Sans', sans-serif; font-size:12px; color:#fff; margin-right:25px; text-transform:uppercase; }
+.evets-lists .date span{font-size:18px; display:block; }
+.evets-lists a{font-size:19px;color:#2a343e; font-family: 'Roboto Slab', serif; }
+.evets-lists a span{font-size:15px; font-family: 'Open Sans', sans-serif; color: #d62540; display:block; padding-top:5px;}
+
+.featured-events-gallery{margin-bottom:30px; clear:both; display:block; }
+
+
+.event-title{
+
+border-bottom: 1px solid #ddd;
+max-width: 95%;
+margin-bottom: 25px;
+padding-bottom: 10px;
+	}
+
+	
+	#tribe-events-content{clear:both; display:block; }
+	#tribe-events-content .tribe-events-single-event-title{font-size:25px; }
+	.tribe-bar-disabled{width:100%!important; }
+	
+	#tribe-events-content .tribe-events-calendar td{background:#f5f5f5!important; border:6px solid #fff!important; }
+	#tribe-events-content .tribe-events-calendar td div{background:none!important; color:#000000!important; font-family: 'Roboto Slab', serif!important; font-size:18px!important;  }
+	#tribe-events-content .tribe-events-calendar td div:first-child a{color:#000000!important; font-family: 'Roboto Slab', serif!important; font-size:18px!important; background:none!important;}
+	#tribe-events-content .url{color:#000000!important;}
+	#tribe-events-content .red-btn{color:#fff!important;}
+	
+.single-tribe_events .event-right-content{
+float: right;
+width: 550px;
+background: #fafafa;
+padding: 20px;
+border: 1px solid #ddd;
+margin-bottom:30px;
+}
+.single-tribe_events .tribe-events-event-image{float:left; width:400px;}
+.single-tribe_events .content-event-box{float:left; width:31%; margin-right:2%; }
+.single-tribe_events .content-event-box dt,
+.single-tribe_events .content-event-box dd
+{float:left; max-width:100%; word-wrap: break-word; }
+.single-tribe_events .tribe-events-venue-map{float: right!important;
+width: 580px!important; 
+margin: 0px!important;
+padding: 0px!important;}
+.single-tribe_events .tribe-events-schedule h2{float:left; }
+.single-tribe_events .tribe-events-schedule .tribe-events-cal-links{float:right; }
+.single-tribe_events h1{border-bottom: 1px solid #ddd;
+margin-bottom: 20px;
+padding-bottom: 10px;}
+
+#tribe-bar-form .tribe-bar-views-inner label{font-size:18px;}
+#tribe-bar-form.tribe-bar-collapse #tribe-bar-views{width:209px!important; padding-left:0px!important; }
+
+
+.tribe-event-date-start{
+	display: block;
+background: #d6253f;
+width: 60px;
+text-align: center;
+height: 60px;
+line-height: 32px;
+color: #fff;
+text-transform: uppercase;
+font-size: 24px;
+padding: 20px 20px;
+margin: 10px auto;
+	}
+	#tribe-bar-form{float:right; border:0px!important; width:300px; }
+	.tribe-event-schedule-details{text-align:center; }
+	#tribe-bar-collapse-toggle,
+.tribe-bar-filters-inner{ }
+.tribe-bar-collapse #tribe-bar-collapse-toggle{width:98%!important; }
+#tribe-bar-form{position:relative; max-width:215px; }
+.additional-content{float: left; width:880px; }
+.additional-content p{margin:0px;}
+.additional-content h3{margin-bottom:10px;}
+.additional-content ul li{float: left;
+width: 23%;
+padding-right: 2%;list-style: inside; margin-top:10px; font-weight:300;   }
+
+.tribe-events,
+.tribe-events-before-html,
+#tribe-events-content,
+#tribe-events,
+#tribe-events-content-wrapper{background:none!important; padding:0px!important; width:100%!important; max-width:100%!important; margin:0px!important; }
+
+.html5gallery-car-mask-2,
+.html5gallery-car-mask-3,
+.html5gallery-car-mask-4,
+.html5gallery-car-mask-5{height:380px; overflow:hidden; }
+
+.tribe-theme-twentyfifteen .tribe-events-list .type-tribe_events, .tribe-theme-twentyfifteen .tribe-events-list .type-tribe_events.tribe-events-first{padding:0px!important; width:100%!important; max-width:100%!important;margin:0px!important;  }
+
+/*****************************************************************************/
+
+#menu-icon{ display:none; }
+
+/*desktop small*/
+#main_header nav #menu-panel{display:block; }
+@media only screen and (max-width: 1150px) {
+	
+#main_header nav{width:100%; margin:0px; position:relative; }
+#main_header nav #menu-panel{width:100%; margin:0px; position:relative; display:block; display:none; }
+#main_header nav ul li{position:relative; float:none; margin:0px; display:block; padding:0px 20px; }
+#main_header nav ul li ul{visibility:visible; position:relative; opacity:1;  }
+#main_header nav .serv_prov_drosown ul:last-child{display:none!important;}
+
+#menu-icon{position:relative; float: right; display:block; 
+padding:10px 0px; 
+text-align:center;
+width:100%;
+cursor:pointer;
+background:#000;
+}
+#menu-icon img{width:30px; height:auto; background:#fff; cursor:pointer;display:block; margin:0px auto; }
+.serve-box{width:48% !important; margin:20px 1%; }
+
+}
+
+/*
+@media screen and (max-width: 900px) {
+	.team-member{max-width:48%; width:48%; margin:15px 1%; }
+}
+
+
+@media screen and (max-width: 768px) {
+#main_banner .item{min-height:600px; }
+.serve-box {width: 98% !important; }
+
+#events_wrapper h2{font-size:1.2em; }
+#events_wrapper h2 span{font-size:1.2em; }
+#events_wrapper .left_content{max-width:100%; margin:15px 0px; width: 100%; }
+#events_wrapper .right_content{max-width:100%; margin:15px 0px; width: 100%;}
+.container{max-width:98%!important; }
+#events_wrapper .right_content iframe{width:100%; }
+.item{text-align:center; }
+
+#services_wrapper .left_content{
+max-width: 100%!important;
+width: 100%!important;
+}
+#services_wrapper .right_content{
+    width: 320px;
+    padding: 0px;
+    border: 0px;
+    margin: 0px auto;
+    float: none;
+}
+
+}
+
+@media screen and (max-width: 640px) {
+
+}
+
+@media screen and (max-width: 580px) {
+
+.team-member{max-width:98%; width:98%; margin:15px 1%; }	
+	
+.home_banner_content {
+    width: 100%!important;
+    max-width: 90%!important;
+    padding: 30px 4%!important;
+}
+
+.home_banner_content_wrapper .home_banner_content h3 {
+    color: #ffffff;
+    line-height: 24px!important;
+    font-size: 16px!important;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700!important;
+}
+.logo{max-width:250px; }
+
+#menu-icon{margin-top:30px; }
+#main_banner .item{min-height:520px; min-height:auto!important; }
+
+.serve-box h3{font-size:20px;  }
+
+}
+
+@media screen and (max-width: 420px) {
+	.home_banner_content a{width:280px; background-size:100%; }
+}
+@media screen and (max-width: 320px) {
+}
+
+*/
+
+.tribe-events-sub-nav li a{color:#d62540; font-size:22px; font-family:'Roboto Slab', serif; font-weight:400;}

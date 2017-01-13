@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:image="http://purl.org/rss/1.0/modules/image/">
+	<channel>
+		<title>Palm Beach</title>
+		<description>Palm Beach</description>
+		<link>http://japanfoa.org/</link>
+		<atom:link href="http://japanfoa.org/rss.php" rel="self" type="application/rss+xml" />
+		<item>
+			<title>ghl</title>
+			<description><![CDATA[kjg]]></description>
+			<link>http://japanfoa.org/blog-detail.php?post_id=2</link>
+			<guid>http://japanfoa.org/blog-detail.php?post_id=2</guid>
+			<pubDate>Thu, 17 Nov 2016 00:00:00 -0600</pubDate>
+		</item>
+		<item>
+			<title>ghl</title>
+			<description><![CDATA[kjg]]></description>
+			<link>http://japanfoa.org/blog-detail.php?post_id=1</link>
+			<guid>http://japanfoa.org/blog-detail.php?post_id=1</guid>
+			<pubDate>Thu, 17 Nov 2016 00:00:00 -0600</pubDate>
+		</item>
+	</channel>
+</rss>

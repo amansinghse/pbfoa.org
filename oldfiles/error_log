@@ -1,0 +1,507 @@
+[05-Jun-2016 06:33:57 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:34:57 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:35:02 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:44:57 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:46:07 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:46:11 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:46:17 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:46:36 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:46:59 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:47:04 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:47:17 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:47:32 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:47:41 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:47:42 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 06:48:11 UTC] PHP Warning:  file_get_contents(&lt;p&gt;
+	&amp;lt;iframe width=&amp;quot;578&amp;quot; height=&amp;quot;352&amp;quot; src=&amp;quot;https://www.youtube.com/embed/kMDJGlLPstE?rel=0&amp;amp;amp;showinfo=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/includes/function.php on line 18
+[05-Jun-2016 07:16:36 UTC] PHP Fatal error:  Call to undefined function how_we_serv() in /home/pixerco/public_html/dev/josh/index.php on line 5
+[05-Jun-2016 09:50:17 UTC] PHP Fatal error:  Call to undefined function ontact_sidebar() in /home/pixerco/public_html/dev/josh/contact.php on line 7
+[05-Jun-2016 09:51:34 UTC] PHP Fatal error:  Call to undefined function ontact_sidebar() in /home/pixerco/public_html/dev/josh/contact.php on line 7
+[05-Jun-2016 10:17:50 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/pixerco/public_html/dev/josh/contact.php on line 27
+[05-Jun-2016 10:17:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/pixerco/public_html/dev/josh/contact.php on line 27
+[05-Jun-2016 10:18:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pixerco/public_html/dev/josh/contact.php on line 29
+[05-Jun-2016 10:18:23 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pixerco/public_html/dev/josh/contact.php on line 29
+[05-Jun-2016 10:51:47 UTC] PHP Fatal error:  Call to undefined function ontact_sidebar() in /home/pixerco/public_html/dev/josh/contact.php on line 7
+[05-Jun-2016 10:51:53 UTC] PHP Fatal error:  Call to undefined function ontact_sidebar() in /home/pixerco/public_html/dev/josh/contact.php on line 7
+[05-Jun-2016 10:51:53 UTC] PHP Fatal error:  Call to undefined function ontact_sidebar() in /home/pixerco/public_html/dev/josh/contact.php on line 7
+[05-Jun-2016 10:51:59 UTC] PHP Fatal error:  Call to undefined function ontact_sidebar() in /home/pixerco/public_html/dev/josh/contact.php on line 7
+[05-Jun-2016 10:52:32 UTC] PHP Fatal error:  Call to undefined function ontact_sidebar() in /home/pixerco/public_html/dev/josh/contact.php on line 7
+[05-Jun-2016 10:52:47 UTC] PHP Fatal error:  Call to undefined function ontact_sidebar() in /home/pixerco/public_html/dev/josh/contact.php on line 7
+[05-Jun-2016 10:53:26 UTC] PHP Fatal error:  Call to undefined function ontact_sidebar() in /home/pixerco/public_html/dev/josh/contact.php on line 7
+[05-Jun-2016 10:53:27 UTC] PHP Fatal error:  Call to undefined function ontact_sidebar() in /home/pixerco/public_html/dev/josh/contact.php on line 7
+[05-Jun-2016 11:00:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/register.php on line 91
+[05-Jun-2016 11:01:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/register.php on line 91
+[05-Jun-2016 11:01:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/register.php on line 91
+[05-Jun-2016 11:01:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/register.php on line 91
+[05-Jun-2016 11:33:10 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/pixerco/public_html/dev/josh/register.php on line 182
+[05-Jun-2016 11:33:15 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/pixerco/public_html/dev/josh/register.php on line 182
+[05-Jun-2016 12:33:26 UTC] PHP Warning:  fopen(/home/decibelp/public_html/OpenInviter/download.zip): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/register.php on line 234
+[05-Jun-2016 12:33:26 UTC] PHP Warning:  filesize(): stat failed for /home/decibelp/public_html/OpenInviter/download.zip in /home/pixerco/public_html/dev/josh/register.php on line 235
+[05-Jun-2016 12:33:26 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 235
+[05-Jun-2016 12:33:26 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 236
+[05-Jun-2016 13:55:37 UTC] PHP Warning:  fopen(/home/decibelp/public_html/OpenInviter/download.zip): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/register.php on line 234
+[05-Jun-2016 13:55:37 UTC] PHP Warning:  filesize(): stat failed for /home/decibelp/public_html/OpenInviter/download.zip in /home/pixerco/public_html/dev/josh/register.php on line 235
+[05-Jun-2016 13:55:37 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 235
+[05-Jun-2016 13:55:37 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 236
+[05-Jun-2016 13:56:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/register.php on line 135
+[05-Jun-2016 13:56:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/register.php on line 137
+[05-Jun-2016 13:56:24 UTC] PHP Warning:  fopen(/home/decibelp/public_html/OpenInviter/download.zip): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/register.php on line 234
+[05-Jun-2016 13:56:24 UTC] PHP Warning:  filesize(): stat failed for /home/decibelp/public_html/OpenInviter/download.zip in /home/pixerco/public_html/dev/josh/register.php on line 235
+[05-Jun-2016 13:56:24 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 235
+[05-Jun-2016 13:56:24 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 236
+[06-Jun-2016 07:05:21 UTC] PHP Warning:  fopen(/home/decibelp/public_html/OpenInviter/download.zip): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/register.php on line 234
+[06-Jun-2016 07:05:21 UTC] PHP Warning:  filesize(): stat failed for /home/decibelp/public_html/OpenInviter/download.zip in /home/pixerco/public_html/dev/josh/register.php on line 235
+[06-Jun-2016 07:05:21 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 235
+[06-Jun-2016 07:05:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 236
+[06-Jun-2016 07:30:44 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/pixerco/public_html/dev/josh/includes/function.php on line 108
+[06-Jun-2016 07:31:22 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/pixerco/public_html/dev/josh/includes/function.php on line 108
+[06-Jun-2016 07:31:59 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 113
+[06-Jun-2016 07:37:14 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 97
+[06-Jun-2016 07:37:32 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:34 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:36 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:37 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:37 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:37 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:37 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:37 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:37 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:38 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:38 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:38 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 112
+[06-Jun-2016 07:37:47 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pixerco/public_html/dev/josh/includes/function.php on line 97
+[06-Jun-2016 07:47:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/pixerco/public_html/dev/josh/location.php on line 47
+[06-Jun-2016 07:47:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/pixerco/public_html/dev/josh/location.php on line 47
+[06-Jun-2016 07:47:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/pixerco/public_html/dev/josh/location.php on line 47
+[06-Jun-2016 07:47:57 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/pixerco/public_html/dev/josh/location.php on line 47
+[06-Jun-2016 07:47:57 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/pixerco/public_html/dev/josh/location.php on line 47
+[06-Jun-2016 07:47:57 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/pixerco/public_html/dev/josh/location.php on line 47
+[06-Jun-2016 10:04:40 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/pixerco/public_html/dev/josh/footer.php on line 1
+[06-Jun-2016 10:05:11 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/pixerco/public_html/dev/josh/footer.php on line 1
+[06-Jun-2016 10:05:16 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/pixerco/public_html/dev/josh/footer.php on line 1
+[06-Jun-2016 10:05:40 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/pixerco/public_html/dev/josh/footer.php on line 1
+[06-Jun-2016 10:05:46 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/pixerco/public_html/dev/josh/footer.php on line 1
+[06-Jun-2016 11:39:03 UTC] PHP Warning:  include(team.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/page.php on line 36
+[06-Jun-2016 11:39:03 UTC] PHP Warning:  include(team.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/page.php on line 36
+[06-Jun-2016 11:39:03 UTC] PHP Warning:  include(): Failed opening 'team.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pixerco/public_html/dev/josh/page.php on line 36
+[06-Jun-2016 11:54:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/includes/function.php on line 106
+[06-Jun-2016 11:54:29 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/includes/function.php on line 106
+[06-Jun-2016 11:54:36 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/includes/function.php on line 106
+[06-Jun-2016 11:55:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/includes/function.php on line 106
+[06-Jun-2016 12:11:19 UTC] PHP Warning:  include(team.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/page.php on line 36
+[06-Jun-2016 12:11:19 UTC] PHP Warning:  include(team.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/page.php on line 36
+[06-Jun-2016 12:11:19 UTC] PHP Warning:  include(): Failed opening 'team.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pixerco/public_html/dev/josh/page.php on line 36
+[06-Jun-2016 13:29:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/pixerco/public_html/dev/josh/page.php on line 3
+[06-Jun-2016 15:22:14 UTC] PHP Warning:  fopen(/home/decibelp/public_html/OpenInviter/download.zip): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/register.php on line 234
+[06-Jun-2016 15:22:14 UTC] PHP Warning:  filesize(): stat failed for /home/decibelp/public_html/OpenInviter/download.zip in /home/pixerco/public_html/dev/josh/register.php on line 235
+[06-Jun-2016 15:22:14 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 235
+[06-Jun-2016 15:22:14 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 236
+[06-Jun-2016 15:24:18 UTC] PHP Warning:  fopen(/home/decibelp/public_html/OpenInviter/download.zip): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/register.php on line 234
+[06-Jun-2016 15:24:18 UTC] PHP Warning:  filesize(): stat failed for /home/decibelp/public_html/OpenInviter/download.zip in /home/pixerco/public_html/dev/josh/register.php on line 235
+[06-Jun-2016 15:24:18 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 235
+[06-Jun-2016 15:24:18 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 236
+[06-Jun-2016 15:33:52 UTC] PHP Warning:  fopen(/home/decibelp/public_html/OpenInviter/download.zip): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/register.php on line 234
+[06-Jun-2016 15:33:52 UTC] PHP Warning:  filesize(): stat failed for /home/decibelp/public_html/OpenInviter/download.zip in /home/pixerco/public_html/dev/josh/register.php on line 235
+[06-Jun-2016 15:33:52 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 235
+[06-Jun-2016 15:33:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/register.php on line 236
+[09-Jun-2016 10:17:35 UTC] PHP Warning:  include(trave;.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/page.php on line 75
+[09-Jun-2016 10:17:35 UTC] PHP Warning:  include(trave;.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/page.php on line 75
+[09-Jun-2016 10:17:35 UTC] PHP Warning:  include(): Failed opening 'trave;.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pixerco/public_html/dev/josh/page.php on line 75
+[09-Jun-2016 10:20:38 UTC] PHP Warning:  include(travel.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/page.php on line 75
+[09-Jun-2016 10:20:38 UTC] PHP Warning:  include(travel.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/page.php on line 75
+[09-Jun-2016 10:20:38 UTC] PHP Warning:  include(): Failed opening 'travel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pixerco/public_html/dev/josh/page.php on line 75
+[09-Jun-2016 10:22:14 UTC] PHP Warning:  include(travel.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/page.php on line 75
+[09-Jun-2016 10:22:14 UTC] PHP Warning:  include(travel.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/page.php on line 75
+[09-Jun-2016 10:22:14 UTC] PHP Warning:  include(): Failed opening 'travel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pixerco/public_html/dev/josh/page.php on line 75
+[15-Jun-2016 10:47:16 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pixerco/public_html/dev/josh/event_calendar.php on line 37
+[15-Jun-2016 10:47:41 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pixerco/public_html/dev/josh/event_calendar.php on line 37
+[15-Jun-2016 10:47:56 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pixerco/public_html/dev/josh/event_calendar.php on line 37
+[16-Jun-2016 07:31:29 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/gold.php on line 37
+[16-Jun-2016 07:31:42 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/silver.php on line 37
+[16-Jun-2016 07:32:40 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/gold.php on line 37
+[16-Jun-2016 07:33:52 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/gold.php on line 37
+[16-Jun-2016 07:34:44 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/gold.php on line 37
+[16-Jun-2016 07:34:47 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/gold.php on line 37
+[17-Jun-2016 06:50:17 UTC] PHP Warning:  POST Content-Length of 104987128 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Jun-2016 09:30:07 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/pixerco/public_html/dev/josh/family-office-membership.php on line 30
+[17-Jun-2016 09:35:14 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/pixerco/public_html/dev/josh/family-office-membership.php on line 33
+[17-Jun-2016 09:35:19 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/pixerco/public_html/dev/josh/family-office-membership.php on line 33
+[17-Jun-2016 09:36:40 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/pixerco/public_html/dev/josh/family-office-membership.php on line 33
+[17-Jun-2016 10:25:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pixerco/public_html/dev/josh/family-office-membership.php on line 122
+[17-Jun-2016 10:50:50 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 35
+[17-Jun-2016 10:50:50 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 38
+[17-Jun-2016 10:54:40 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 32
+[17-Jun-2016 11:13:29 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 32
+[17-Jun-2016 11:14:53 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 32
+[17-Jun-2016 11:15:39 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 32
+[17-Jun-2016 11:15:44 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 32
+[17-Jun-2016 11:15:52 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 32
+[17-Jun-2016 11:15:58 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 32
+[17-Jun-2016 11:16:54 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 32
+[17-Jun-2016 11:17:17 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 32
+[17-Jun-2016 11:26:33 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-asset-managers.php on line 32
+[17-Jun-2016 12:12:09 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-service-providers.php on line 45
+[20-Jun-2016 06:44:59 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:49:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:49:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 114
+[20-Jun-2016 07:49:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:49:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 114
+[20-Jun-2016 07:49:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:49:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 114
+[20-Jun-2016 07:49:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:49:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 114
+[20-Jun-2016 07:50:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:50:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 114
+[20-Jun-2016 07:52:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 119
+[20-Jun-2016 07:52:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:52:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:52:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 119
+[20-Jun-2016 07:52:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:52:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:53:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:53:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:53:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:53:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:53:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 121
+[20-Jun-2016 07:53:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:53:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:53:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:53:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:53:35 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:53:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:53:35 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:53:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:53:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 121
+[20-Jun-2016 07:53:35 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:53:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:53:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:53:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:53:41 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:53:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:53:41 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:53:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:53:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 121
+[20-Jun-2016 07:53:41 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:53:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:53:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:53:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:54:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:54:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:54:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:54:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:54:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 121
+[20-Jun-2016 07:54:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:54:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:54:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:54:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:54:13 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:54:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:54:13 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:54:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:54:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 121
+[20-Jun-2016 07:54:13 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:54:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:54:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:54:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:54:49 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:54:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:54:49 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:54:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:54:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 121
+[20-Jun-2016 07:54:49 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:54:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:54:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:54:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:54:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:54:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:54:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:54:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:54:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 121
+[20-Jun-2016 07:54:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:54:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:54:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:54:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:54:59 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:54:59 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 07:54:59 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:54:59 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:54:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 121
+[20-Jun-2016 07:54:59 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:54:59 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 07:54:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:54:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 07:58:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:58:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:58:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:58:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:58:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:58:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:58:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:58:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:58:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:58:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:58:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:58:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 07:58:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 07:58:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 08:00:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 08:00:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 08:00:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 08:00:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 08:00:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 121
+[20-Jun-2016 08:00:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 08:00:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 08:00:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:00:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:00:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 08:00:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 08:00:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 08:00:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/index.php on line 118
+[20-Jun-2016 08:00:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 121
+[20-Jun-2016 08:00:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 08:00:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/gallery.php on line 14
+[20-Jun-2016 08:00:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:00:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:02:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 120
+[20-Jun-2016 08:02:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:02:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:02:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 120
+[20-Jun-2016 08:02:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:02:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:04:19 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 08:04:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 120
+[20-Jun-2016 08:04:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 08:04:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 119
+[20-Jun-2016 08:04:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 08:04:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 119
+[20-Jun-2016 08:04:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 08:04:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 119
+[20-Jun-2016 08:08:34 UTC] PHP Parse error:  syntax error, unexpected 'connected' (T_STRING) in /home/pixerco/public_html/dev/josh/includes/config.php on line 20
+[20-Jun-2016 08:08:36 UTC] PHP Parse error:  syntax error, unexpected 'connected' (T_STRING) in /home/pixerco/public_html/dev/josh/includes/config.php on line 20
+[20-Jun-2016 08:08:39 UTC] PHP Parse error:  syntax error, unexpected 'connected' (T_STRING) in /home/pixerco/public_html/dev/josh/includes/config.php on line 20
+[20-Jun-2016 08:09:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/pixerco/public_html/dev/josh/includes/config.php on line 18
+[20-Jun-2016 08:09:09 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/pixerco/public_html/dev/josh/includes/config.php on line 18
+[20-Jun-2016 08:09:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 08:09:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 119
+[20-Jun-2016 08:09:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 08:09:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 119
+[20-Jun-2016 08:09:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/header.php on line 13
+[20-Jun-2016 08:09:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 119
+[20-Jun-2016 08:12:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 120
+[20-Jun-2016 08:12:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:12:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:12:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 120
+[20-Jun-2016 08:12:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:12:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:13:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 120
+[20-Jun-2016 08:13:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:13:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:14:41 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/pixerco/public_html/dev/josh/includes/function.php on line 130
+[20-Jun-2016 08:14:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 120
+[20-Jun-2016 08:14:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:14:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:15:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 120
+[20-Jun-2016 08:15:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:15:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:18:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 120
+[20-Jun-2016 08:18:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:18:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/gallery.php on line 20
+[20-Jun-2016 08:22:22 UTC] PHP Fatal error:  Call to a member function query() on null in /home/pixerco/public_html/dev/josh/index.php on line 71
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:40:24 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:08 UTC] PHP Warning:  Illegal string offset 'image' in /home/pixerco/public_html/dev/josh/index.php on line 79
+[20-Jun-2016 08:50:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[20-Jun-2016 08:51:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[20-Jun-2016 08:51:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[20-Jun-2016 08:54:42 UTC] PHP Parse error:  syntax error, unexpected '$array' (T_VARIABLE), expecting function (T_FUNCTION) in /home/pixerco/public_html/dev/josh/index.php on line 79
+[21-Jun-2016 08:06:58 UTC] PHP Fatal error:  Call to undefined method mysqli::get_results() in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:07:34 UTC] PHP Fatal error:  Call to undefined method mysqli::mysqli_fetch_array() in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:08:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:08:30 UTC] PHP Fatal error:  Call to undefined method mysqli::mysqli_fetch_array() in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:08:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:08:34 UTC] PHP Fatal error:  Call to undefined method mysqli::mysqli_fetch_array() in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:09:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:09:13 UTC] PHP Fatal error:  Call to undefined method mysqli::mysqli_fetch_array() in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:37:50 UTC] PHP Fatal error:  Call to undefined method mysqli::mysqli_fetch_array() in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:38:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:38:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 76
+[21-Jun-2016 08:38:44 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:39:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:39:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 76
+[21-Jun-2016 08:42:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:42:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:42:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:42:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:43:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:43:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:43:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:43:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:43:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:43:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:44:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:44:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 76
+[21-Jun-2016 08:44:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:44:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 76
+[21-Jun-2016 08:45:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:45:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 76
+[21-Jun-2016 08:46:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:46:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:46:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:46:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:48:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:48:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:48:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:48:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:48:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:48:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:48:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:48:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:48:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:48:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:48:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:48:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:48:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:48:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:49:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:49:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:49:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:49:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:49:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:49:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[21-Jun-2016 08:50:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/pixerco/public_html/dev/josh/index.php on line 75
+[21-Jun-2016 08:50:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 79
+[21-Jun-2016 08:53:02 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:53:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:53:06 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:53:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:54:33 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:54:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:54:38 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:54:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/pixerco/public_html/dev/josh/index.php on line 73
+[21-Jun-2016 08:54:54 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:54:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:55:01 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/pixerco/public_html/dev/josh/index.php on line 71
+[21-Jun-2016 08:55:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:55:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:56:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:56:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 0 given in /home/pixerco/public_html/dev/josh/index.php on line 74
+[21-Jun-2016 08:56:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pixerco/public_html/dev/josh/index.php on line 78
+[24-Jun-2016 09:21:19 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/pixerco/public_html/dev/josh/index.php on line 165
+[24-Jun-2016 09:21:22 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/pixerco/public_html/dev/josh/index.php on line 165
+[24-Jun-2016 09:21:50 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/pixerco/public_html/dev/josh/index.php on line 165
+[24-Jun-2016 09:21:52 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/pixerco/public_html/dev/josh/index.php on line 165
+[24-Jun-2016 09:22:24 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/pixerco/public_html/dev/josh/index.php on line 172
+[24-Jun-2016 10:39:20 UTC] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/pixerco/public_html/dev/josh/submitnews.php on line 82
+[27-Jun-2016 19:44:24 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-membership.php on line 37
+[27-Jun-2016 19:44:24 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-membership.php on line 39
+[27-Jun-2016 19:44:24 UTC] PHP Warning:  join(): Invalid arguments passed in /home/pixerco/public_html/dev/josh/family-office-membership.php on line 41
+[28-Jun-2016 10:29:45 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/page.php on line 20
+[28-Jun-2016 10:29:48 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/page.php on line 20
+[28-Jun-2016 10:29:51 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/page.php on line 20
+[28-Jun-2016 10:29:53 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/page.php on line 20
+[28-Jun-2016 11:06:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/includes/function.php on line 164
+[29-Jun-2016 10:54:17 UTC] PHP Fatal error:  Call to undefined function how_we_serv() in /home/pixerco/public_html/dev/josh/index.php on line 53

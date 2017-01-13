@@ -1,0 +1,85 @@
+[16-Jun-2016 08:04:14 UTC] PHP Warning:  include(includes/config.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/directory/header.php on line 2
+[16-Jun-2016 08:04:14 UTC] PHP Warning:  include(includes/config.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/directory/header.php on line 2
+[16-Jun-2016 08:04:14 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pixerco/public_html/dev/josh/directory/header.php on line 2
+[16-Jun-2016 08:04:14 UTC] PHP Warning:  include_once(includes/function.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/directory/header.php on line 3
+[16-Jun-2016 08:04:14 UTC] PHP Warning:  include_once(): Failed opening 'includes/function.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pixerco/public_html/dev/josh/directory/header.php on line 3
+[16-Jun-2016 08:04:14 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/pixerco/public_html/dev/josh/directory/header.php on line 12
+[16-Jun-2016 08:04:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pixerco/public_html/dev/josh/directory/header.php on line 12
+[16-Jun-2016 08:04:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/header.php on line 13
+[16-Jun-2016 08:04:39 UTC] PHP Warning:  include_once(includes/function.php): failed to open stream: No such file or directory in /home/pixerco/public_html/dev/josh/directory/header.php on line 3
+[16-Jun-2016 08:04:39 UTC] PHP Warning:  include_once(): Failed opening 'includes/function.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pixerco/public_html/dev/josh/directory/header.php on line 3
+[16-Jun-2016 08:30:55 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/silver.php on line 37
+[16-Jun-2016 08:40:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/pixerco/public_html/dev/josh/directory/index.php on line 12
+[16-Jun-2016 10:31:35 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/silver.php on line 37
+[16-Jun-2016 10:33:16 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/silver.php on line 38
+[16-Jun-2016 10:33:19 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/silver.php on line 38
+[16-Jun-2016 10:33:22 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/silver.php on line 38
+[16-Jun-2016 10:33:55 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/silver.php on line 39
+[16-Jun-2016 10:37:55 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/bronoz.php on line 38
+[16-Jun-2016 10:38:32 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/bronoz.php on line 39
+[16-Jun-2016 10:39:13 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/bronoz.php on line 39
+[16-Jun-2016 10:39:19 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/bronoz.php on line 39
+[16-Jun-2016 10:39:58 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/bronoz.php on line 39
+[16-Jun-2016 10:44:12 UTC] PHP Fatal error:  Call to a member function get_col() on null in /home/pixerco/public_html/dev/josh/directory/free.php on line 37
+[16-Jun-2016 11:05:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pixerco/public_html/dev/josh/directory/header.php:19) in /home/pixerco/public_html/dev/josh/directory/free.php on line 212
+[16-Jun-2016 11:07:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pixerco/public_html/dev/josh/directory/header.php:19) in /home/pixerco/public_html/dev/josh/directory/free.php on line 204
+[16-Jun-2016 11:09:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pixerco/public_html/dev/josh/directory/free.php on line 230
+[16-Jun-2016 11:09:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pixerco/public_html/dev/josh/directory/free.php on line 230
+[16-Jun-2016 12:22:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 16
+[16-Jun-2016 12:31:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pixerco/public_html/dev/josh/directory/header.php:21) in /home/pixerco/public_html/dev/josh/directory/silver.php on line 243
+[16-Jun-2016 12:42:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 126
+[16-Jun-2016 12:42:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 126
+[16-Jun-2016 12:42:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 126
+[16-Jun-2016 12:44:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 126
+[16-Jun-2016 12:44:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 126
+[17-Jun-2016 05:35:30 UTC] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/pixerco/public_html/dev/josh/directory/gold.php on line 221
+[17-Jun-2016 05:35:31 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5XgfTW' to '../images/company_logos/' in /home/pixerco/public_html/dev/josh/directory/gold.php on line 221
+[17-Jun-2016 05:36:24 UTC] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/pixerco/public_html/dev/josh/directory/gold.php on line 221
+[17-Jun-2016 05:36:24 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDDXxrT' to '../images/company_logos/' in /home/pixerco/public_html/dev/josh/directory/gold.php on line 221
+[21-Jun-2016 05:43:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 117
+[21-Jun-2016 06:47:13 UTC] PHP Parse error:  syntax error, unexpected ''company' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/pixerco/public_html/dev/josh/directory/index.php on line 113
+[21-Jun-2016 11:08:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 120
+[22-Jun-2016 10:29:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 119
+[24-Jun-2016 07:46:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/free.php on line 182
+[27-Jun-2016 07:00:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 119
+[27-Jun-2016 07:46:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 274
+[27-Jun-2016 08:07:01 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:07:03 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:07:49 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:07:51 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:07:52 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:07:56 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:08:15 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:08:17 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:08:19 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:10:08 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:10:11 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:10:27 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:10:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/pixerco/public_html/dev/josh/directory/index.php on line 277
+[27-Jun-2016 08:10:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 280
+[27-Jun-2016 08:10:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 284
+[27-Jun-2016 08:11:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 280
+[27-Jun-2016 08:11:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/pixerco/public_html/dev/josh/directory/index.php on line 284
+[27-Jun-2016 08:11:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 280
+[27-Jun-2016 08:11:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/pixerco/public_html/dev/josh/directory/index.php on line 284
+[27-Jun-2016 08:24:37 UTC] PHP Parse error:  syntax error, unexpected '$categories' (T_VARIABLE), expecting '(' in /home/pixerco/public_html/dev/josh/directory/index.php on line 285
+[27-Jun-2016 08:24:41 UTC] PHP Parse error:  syntax error, unexpected '$categories' (T_VARIABLE), expecting '(' in /home/pixerco/public_html/dev/josh/directory/index.php on line 285
+[27-Jun-2016 08:25:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 241
+[27-Jun-2016 08:26:22 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 301
+[27-Jun-2016 08:26:24 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 301
+[27-Jun-2016 08:26:26 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 301
+[27-Jun-2016 08:26:28 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 301
+[27-Jun-2016 08:26:34 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 301
+[27-Jun-2016 08:26:35 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 301
+[27-Jun-2016 08:27:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 274
+[27-Jun-2016 08:27:58 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/pixerco/public_html/dev/josh/directory/index.php on line 299
+[27-Jun-2016 08:29:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 524
+[27-Jun-2016 08:29:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pixerco/public_html/dev/josh/directory/index.php on line 524
+[27-Jun-2016 08:29:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 295
+[27-Jun-2016 08:58:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 295
+[27-Jun-2016 09:00:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 295
+[27-Jun-2016 09:02:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/pixerco/public_html/dev/josh/directory/index.php on line 295
+[27-Jun-2016 09:07:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 295
+[27-Jun-2016 09:07:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 295
+[27-Jun-2016 09:14:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 295
+[27-Jun-2016 09:19:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pixerco/public_html/dev/josh/directory/index.php on line 295

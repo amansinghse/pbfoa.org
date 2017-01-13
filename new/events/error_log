@@ -1,0 +1,9 @@
+[20-Jun-2016 11:42:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pixerco/public_html/dev/josh/events/wp-content/themes/twentysixteen/template-parts/events_media.php on line 27
+[20-Jun-2016 11:43:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pixerco/public_html/dev/josh/events/wp-content/themes/twentysixteen/template-parts/events_media.php on line 27
+[20-Jun-2016 11:50:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pixerco/public_html/dev/josh/events/wp-content/themes/twentysixteen/template-parts/events_media.php on line 29
+[20-Jun-2016 11:50:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pixerco/public_html/dev/josh/events/wp-content/themes/twentysixteen/template-parts/events_media.php on line 29
+[28-Jun-2016 15:30:49 UTC] PHP Fatal error:  Call to undefined function tribe_is_ajax_view_request() in /home/pixerco/public_html/dev/josh/events/wp-content/plugins/the-events-calendar/src/Tribe/Templates.php on line 72
+[28-Jun-2016 15:32:16 UTC] PHP Fatal error:  Call to undefined function tribe_is_ajax_view_request() in /home/pixerco/public_html/dev/josh/events/wp-content/plugins/the-events-calendar/src/Tribe/Templates.php on line 72
+[28-Jun-2016 15:35:01 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pixerco/public_html/dev/josh/events/wp-content/plugins/the-events-calendar/src/functions/template-tags/general.php on line 983
+[28-Jun-2016 15:35:01 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pixerco/public_html/dev/josh/events/wp-content/plugins/the-events-calendar/src/functions/template-tags/general.php on line 983
+[28-Jun-2016 15:35:03 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pixerco/public_html/dev/josh/events/wp-content/plugins/the-events-calendar/src/functions/template-tags/general.php on line 983
