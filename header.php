@@ -16,16 +16,16 @@ else
 	$meta_title = $title[0]['meta_title'];
 	$meta_des = $title[0]['meta_des'];
 }
-  if($t != null)
-	  { ?>
-		<meta http-equiv="refresh" content="1,URL=<?php echo "http://" . $_SERVER['SERVER_NAME']; ?>/index.php">
-	  <?php }
-	  
+ if($lastArr == "")
+{
+	$meta_title ="Palm Beach Family Office Association";
+}
+ 
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title><?php echo $meta_title; ?></title>
+<title><?php echo ucfirst($meta_title); ?></title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="description" content="<?php echo $meta_des; ?>" />
 <!--<meta name="keywords" content="<?php echo $resutl['	page_keywords']?>" />-->

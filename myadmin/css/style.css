@@ -75,8 +75,6 @@ a.add{ background:url(../images/add.png) no-repeat left center;height:16px; widt
 .view{ background:url(../images/view.png) no-repeat center; height:16px; width:16px; display:inline-block;padding:2px;}
 .delete_btn{ background:url(../images/delete_btn.png); height:23px; width:20px; display:block; float:left; margin:0px 0px 0px 10px;}
 
-.active{ background:url(../images/active.png) no-repeat center; height:16px; width:16px; display:inline-block;padding:2px;}
-.deactive{ background:url(../images/deactive.png) no-repeat center; height:16px; width:16px; display:inline-block;padding:2px;}
 
 .fullform select,.fullform textarea,.fullform input[type=password],.fullform input[type=text]{ width:95%;}
 

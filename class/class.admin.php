@@ -65,6 +65,7 @@ class Admin extends DBClass{
 	function ReturnReferer(){
 		header("Location:".$_SESSION['CURRENT_URL']);
 	}
+	
 	function ReturnRefererAjaxPages(){
 		header("Location:".$_SESSION['CURRENT_URL_AJAX']);
 	}
@@ -107,7 +108,9 @@ class Admin extends DBClass{
 				return true;
 			}
 		}else{
-			header("Location:index.php");
+			$dat= $_SERVER['REQUEST_URI'];
+			header("Location:index.php?id=$dat");
+			
 		}
 	}
 	function LogOut(){
@@ -234,6 +237,22 @@ class Admin extends DBClass{
 			$this->UpdateQuery("update ".$table_name." set ".$dbcolumn."='".$newfilename."' where ".$where_column."='".$id."'");
 		}
 	}
+	function FUploadImage($file,$table_name,$dbcolumn,$where_column,$id,$width,$height,$th_width=0,$th_height=0,$thumb=false){
+		$filename=str_replace(" ","-",trim($file['name']));
+		$file_arr = explode(".",$filename);
+		$ext = strtolower($file_arr[count($file_arr)-1]);
+	
+		
+		if ($ext=="jpg" || $ext=="jpeg" || $ext=="png" || $ext=="gif"){
+			$path = "../images/".$table_name."/";
+			$newfilename = time()."-".rand(99,999).uniqid().".".$ext;
+		    move_uploaded_file($file['tmp_name'],$path.$newfilename);
+			
+			$this->UpdateQuery("update ".$table_name." set ".$dbcolumn."='".$newfilename."' where ".$where_column."='".$id."'");
+		}
+	}
+	
+	
 		function FixedUploadDoc($file,$table_name,$dbcolumn,$where_column,$id){
 		$filename=str_replace(" ","-",trim($file['name']));
 		$file_arr = explode(".",$filename);
